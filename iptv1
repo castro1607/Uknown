@@ -1091,3 +1091,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u
 https://ott-linear-channels.stingray.com/155/master_1920x1080_1500kbps.m3u8
 #EXTINF:-1 tvg-id="916" tvg-chno="916" tvg-name="Stingray Urban Beat" group-title="Stingray Music",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://ncnguyana.com/wp-content/uploads/2020/11/ncnheader-1-1536x384.png",NCN GUYANA
+http://gystreamer01.airlinktt.co/ottorigin05/live/smil:NCN_GUYANA.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",HGPTV GUYANA
+http://gystreamer01.airlinktt.co/gyorigin01/live/smil:HGPTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFD5TAQP4OPepCraw2HKmuZxtcPBTmeK-rfxYrEL0Jw&s",TV GUYANA
+http://gystreamer01.airlinktt.co/gyorigin01/live/smil:TVG.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBcdDvb9zuNumRbfVhv4BXzjASonBkLy0CPiSDDyl_SRwuO1clTNQ&usqp=CAE&s",HJTV GUYANA
+http://gystreamer01.airlinktt.co/gyorigin01/live/smil:HJTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",PRIME GUYANA
+http://gystreamer01.airlinktt.co/ottorigin05/live/smil:PRIME.smil/playlist.m3u8
